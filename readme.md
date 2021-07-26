@@ -49,9 +49,10 @@ php artisan db:seed ,php artisan db:seed --class=ProductsTableSeeder ,php artisa
 
 ```
 10.Credenciales
-...
+```
 Email:admin@hotmail.com
 Contraseña:password
+```
 ## Autor
 
 Carlos Vergara
